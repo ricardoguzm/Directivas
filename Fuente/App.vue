@@ -68,7 +68,7 @@
       title: 'Hola desde Vue.js3',
       html: '<h3> Soy un H3</h3>',
       years: 0,
-      users: ["Moises" , "Jesus", "Ricardo","Medina"], //comando v-for
+      users: ["Jair" , "Jesus", "Ricardo","Medina"], //comando v-for
       u_users:{name: "Yirsis"}, //comando v-for
       clicks: 0,
       url: "https://cdn.svgporn.com/logos/compose-multiplatform.svg",
